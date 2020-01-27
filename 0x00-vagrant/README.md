@@ -1,0 +1,1 @@
+The Readme file for 0x00-vagrant directory this text is temporary
